@@ -72,14 +72,14 @@ Password: admin123
 Password: T!g3r@2025$
 → ✅ Strong
 → No suggestions needed!
-📂 Project Structure
+##📂 Project Structure
 password-analyzer/
 │
 ├── password_analyzer_gui.py   # Main GUI script
 ├── README.md                  # Documentation
 ├── LICENSE                    # MIT License
 └── assets/                    # Screenshots or media
-**🛡 Password Best Practices
+##🛡 Password Best Practices
  #Use at least 12–16 characters
 
 #Combine letters, numbers, and special symbols
@@ -88,17 +88,17 @@ password-analyzer/
 
 #Use a password manager for storing strong passwords
 
-📸 Screenshots
+##📸 Screenshots
 
-📽 Video Demonstration
+##📽 Video Demonstration
 
 
-👨‍💻 Developer
-. JISHNU PATIL
-.CYBERSECURITY  INTERN -Pinnacle Labs
+##👨‍💻 Developer
+##> JISHNU PATIL
+##>CYBERSECURITY  INTERN -Pinnacle Labs
 
-📜 License
-This project is licensed under the MIT License
+##📜 License
+#This project is licensed under the MIT License
 
 
 
