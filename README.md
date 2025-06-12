@@ -51,5 +51,56 @@ The app analyzes password complexity in real time and guides users toward better
 
 1. **Clone the Repo**
    ```bash
-   git clone https://github.com//password-analyzer.git
+   git clone https://github.com/JISHNU PATIL (cyberjishnu)/password-analyzer.git
    cd password-analyzer
+ 2.  Run the App
+python password_analyzer_gui.py
+
+3. Use the Interface
+
+#Type a password
+
+#Click "Show" to view/hide password
+
+#Read strength result and suggestions
+
+💡 Example:
+Password: admin123
+→ ❌ Weak
+→ Suggestions: Add uppercase letters, special characters, avoid common words.
+
+Password: T!g3r@2025$
+→ ✅ Strong
+→ No suggestions needed!
+📂 Project Structure
+password-analyzer/
+│
+├── password_analyzer_gui.py   # Main GUI script
+├── README.md                  # Documentation
+├── LICENSE                    # MIT License
+└── assets/                    # Screenshots or media
+**🛡 Password Best Practices
+ #Use at least 12–16 characters
+
+#Combine letters, numbers, and special symbols
+
+#Avoid dictionary words, names, or dates
+
+#Use a password manager for storing strong passwords
+
+📸 Screenshots
+
+📽 Video Demonstration
+
+
+👨‍💻 Developer
+. JISHNU PATIL
+.CYBERSECURITY  INTERN -Pinnacle Labs
+
+📜 License
+This project is licensed under the MIT License
+
+
+
+
+
