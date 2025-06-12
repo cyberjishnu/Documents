@@ -55,13 +55,16 @@ The app analyzes password complexity in real time and guides users toward better
    cd password-analyzer
 2.  Run the App
 
-python password_analyzer_gui.py
+         python password_analyzer_gui.py
+
 
 3. Use the Interface
 
      1.Type a password
-     2.Click "Show" to view/hide password
-     3.Read strength result and suggestions
+
+    2.Click "Show" to view/hide password
+
+    3.Read strength result and suggestions
 
 💡 Example:
 Password: admin123
@@ -103,7 +106,7 @@ Password: T!g3r@2025$
 # 4.![p3](https://github.com/user-attachments/assets/5fbd3166-c14e-4cd8-9f41-44c4568131c9)
 
 # 📽 Video Demonstration
-
+https://www.linkedin.com/posts/jishnu-patil-7681b1294_pinnaclelabs-cybersecurity-passwordsecurity-activity-7338834793960243200-HzKp?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEc4UgABgShZdiMzWhqBZSnOLtBx2ghXwks
 
 # 👨‍💻 Developer
 
