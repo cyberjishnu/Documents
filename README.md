@@ -57,7 +57,7 @@ The app analyzes password complexity in real time and guides users toward better
 
 python password_analyzer_gui.py
 
-4. Use the Interface
+3. Use the Interface
 
      1.Type a password
      2.Click "Show" to view/hide password
@@ -68,12 +68,13 @@ Password: admin123
 → ❌ Weak
 → Suggestions: Add uppercase letters, special characters, avoid common words.
 
+
 Password: T!g3r@2025$
 → ✅ Strong
 → No suggestions needed!
 
 
->📂 Project Structure
+# 📂 Project Structure
 
  
  >password-analyzer/
@@ -84,7 +85,7 @@ Password: T!g3r@2025$
 >└── assets/                    # Screenshots or media
 
 
-🛡 Password Best Practices
+# 🛡 Password Best Practices
 
 
 1.Use at least 12–16 characters
@@ -95,21 +96,22 @@ Password: T!g3r@2025$
 
 4.Use a password manager for storing strong passwords
 
-📸 Screenshots
+# 📸 Screenshots
+# 1. ![p1](https://github.com/user-attachments/assets/2001ab95-5491-4122-923c-0614d5c6e6d8)
+# 2.![p2](https://github.com/user-attachments/assets/1f78594a-7cdb-4531-9fca-252c9616e0de)
+# 3.![p4](https://github.com/user-attachments/assets/c3667615-0b0c-459b-b489-a565208d32c6)
+# 4.![p3](https://github.com/user-attachments/assets/5fbd3166-c14e-4cd8-9f41-44c4568131c9)
+
+# 📽 Video Demonstration
 
 
-
-📽 Video Demonstration
-
-
-
-👨‍💻 Developer
+# 👨‍💻 Developer
 
 > JISHNU PATIL
 >CYBERSECURITY  INTERN -Pinnacle Labs
 
 
-📜 License
+# 📜 License
 This project is licensed under the MIT License
 
 
