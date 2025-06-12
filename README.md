@@ -10,7 +10,7 @@
 
 ## 📘 About
 
-This project was developed as part of a Pinnacle Lab's **Cybersecurity Internship Program (2025)**. Its goal is to raise awareness of strong password practices and demonstrate how simple tools can help users avoid common password mistakes.
+This project was developed as part of a **Pinnacle Lab's Cybersecurity Internship Program (2025)**. Its goal is to raise awareness of strong password practices and demonstrate how simple tools can help users avoid common password mistakes.
 
 The app analyzes password complexity in real time and guides users toward better password hygiene using suggestions, strength scoring, and UI cues.
 
